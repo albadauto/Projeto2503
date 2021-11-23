@@ -1,0 +1,3 @@
+SERVER_PORT = 21109
+PROJECTNAME = 2503
+MONGOURI = mongodb://localhost/Projeto2503
